@@ -1,0 +1,21 @@
+{
+  "name": "svg-defs-loader",
+  "version": "0.0.1",
+  "description": "Webpack SVG useable loader",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malyshevalex/svg-defs-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "svg",
+    "loader"
+  ],
+  "author": "Alex Malyshev <malyshevalex@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malyshevalex/svg-defs-loader/issues"
+  },
+  "homepage": "https://github.com/malyshevalex/svg-defs-loader#readme"
+}
