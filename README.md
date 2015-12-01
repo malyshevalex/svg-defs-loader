@@ -28,7 +28,7 @@ class MyComponent {
     componentWillMount() {
         svgDefs.use();
     }
-    compenentWillUnmount() {
+    componentWillUnmount() {
         svgDefs.unuse();
     }
 }
